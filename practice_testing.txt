@@ -1,0 +1,5 @@
+testing steps
+
+1.smoke testing
+2.adhoc testing
+3.system testing
